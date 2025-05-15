@@ -9,6 +9,9 @@ A comprehensive ship maintenance management system built with React, featuring r
 ## Features
 
 ### Authentication & Authorization
+
+![image](https://github.com/user-attachments/assets/cb3e0540-c6c2-452a-953b-95f2b1e3b46d)
+
 - Role-based access control (Admin, Inspector, Engineer)
 - Secure login with email/password
 - Session persistence using localStorage
