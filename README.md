@@ -4,7 +4,6 @@ A comprehensive ship maintenance management system built with React, featuring r
 
 ![image](https://github.com/user-attachments/assets/6c05cdd2-d198-4287-9dbe-e28e9902be27)
 
-
 # **Live Demo:** [entnt-ship.netlify.app](https://entnt-ship.netlify.app)
 
 ## Features
@@ -17,12 +16,16 @@ A comprehensive ship maintenance management system built with React, featuring r
 
 ### Ships Management
 
+![image](https://github.com/user-attachments/assets/ce064d4e-165d-46cd-8761-a265bce0d6fd)
+
 - Complete CRUD operations for ships
 - Detailed ship profiles with maintenance history
 - Status tracking (Active, Under Maintenance, Out of Service)
 - Filter and search functionality
 
 ### Components Management
+
+![image](https://github.com/user-attachments/assets/8df93d63-8e6f-4017-96b5-41d5c80035bd)
 
 - Add, edit, and delete ship components
 - Track installation and maintenance dates
@@ -31,6 +34,8 @@ A comprehensive ship maintenance management system built with React, featuring r
 
 ### Maintenance Jobs
 
+![image](https://github.com/user-attachments/assets/d75c3a19-ec5d-4762-9d2a-ed2ba9acb1ce)
+
 - Create and assign maintenance jobs
 - Priority levels (Low, Medium, High, Critical)
 - Status tracking (Open, In Progress, Completed, Cancelled)
@@ -38,12 +43,17 @@ A comprehensive ship maintenance management system built with React, featuring r
 
 ### Interactive Calendar
 
+![image](https://github.com/user-attachments/assets/2834e8ba-ee9b-4cfd-829f-cea148d7eedd)
+
 - Monthly and weekly calendar views
 - Visual representation of scheduled jobs
 - Click-to-view job details
 - Color-coded job priorities
 
 ### Real-time Notifications
+
+![image](https://github.com/user-attachments/assets/c72f55fb-003c-453d-8393-a45194905706)
+
 - Job status updates
 - Maintenance due alerts
 - Dismissible notifications
