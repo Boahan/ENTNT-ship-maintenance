@@ -2,7 +2,7 @@
 
 A comprehensive ship maintenance management system built with React, featuring role-based access control, real-time notifications, and interactive maintenance scheduling.
 
-![Dashboard Overview]()
+# **Live Demo:** [entnt-ship.netlify.app](https://entnt-ship.netlify.app)
 
 ## Features
 
@@ -13,7 +13,6 @@ A comprehensive ship maintenance management system built with React, featuring r
 - Protected routes based on user roles
 
 ### Ships Management
-![Ships Management]()
 
 - Complete CRUD operations for ships
 - Detailed ship profiles with maintenance history
@@ -21,7 +20,6 @@ A comprehensive ship maintenance management system built with React, featuring r
 - Filter and search functionality
 
 ### Components Management
-![Components]()
 
 - Add, edit, and delete ship components
 - Track installation and maintenance dates
@@ -29,7 +27,6 @@ A comprehensive ship maintenance management system built with React, featuring r
 - Maintenance due notifications
 
 ### Maintenance Jobs
-![Maintenance Jobs]()
 
 - Create and assign maintenance jobs
 - Priority levels (Low, Medium, High, Critical)
@@ -37,7 +34,6 @@ A comprehensive ship maintenance management system built with React, featuring r
 - Filter jobs by ship, status, and priority
 
 ### Interactive Calendar
-![Maintenance Calendar]()
 
 - Monthly and weekly calendar views
 - Visual representation of scheduled jobs
