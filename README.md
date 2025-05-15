@@ -2,6 +2,9 @@
 
 A comprehensive ship maintenance management system built with React, featuring role-based access control, real-time notifications, and interactive maintenance scheduling.
 
+![image](https://github.com/user-attachments/assets/6c05cdd2-d198-4287-9dbe-e28e9902be27)
+
+
 # **Live Demo:** [entnt-ship.netlify.app](https://entnt-ship.netlify.app)
 
 ## Features
